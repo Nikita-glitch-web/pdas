@@ -8,6 +8,7 @@ function ProfileCard({title, handle}) {
         <div>
             <div>
                 Title is {title}
+                SUCKKK
             </div>
             <div>
                 Handle is {handle}
