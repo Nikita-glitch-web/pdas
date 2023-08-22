@@ -12,7 +12,7 @@ function ProfileCard({title, handle}) {
             </div>
             <div>
                 Handle is {handle}
-                DICK
+                SUCK
             </div>
         </div>
     );
